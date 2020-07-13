@@ -1,7 +1,7 @@
 # Apocalypse Deserts (Canceled)
 Apocalypse Deserts a truck simulator game (Unreal Engine 4)
 
-A Trading game with truck that we can modifie every part
+A Trading game with a truck that we can modifie every parts
 
 ![Alt text](/Screenshots/1.jpg?raw=true "SS 01")
 
